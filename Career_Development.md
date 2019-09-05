@@ -13,4 +13,4 @@
 ## How might knowing about your strengths and working preferences benefit you as a software developer? ##
   I know how I prefer to work, and with whom I prefer working with. I know my learning style, and the challenges I have faced before. I have a drive to overcome issues I will face, and frankly I am a freindly person and have no issue reaching out for help. Being aware of my personal strengths and working preferences is monumental going into a program like Turing. It helps to build a solid foundation that I can grow from. If I know how I work best, I won't be distracted or frustrated trying to solve daily problems or tasks. 
 
-![Pairin Results](https://assets.pairin.com/reports/qualities/objective-analytical-friend-can-do-attitude-lover-of-justice-color.pdf "Results")
+![Pairin Results](https://assets.pairin.com/reports/qualities/objective-analytical-friend-can-do-attitude-lover-of-justice-bw.pdf "Results")
