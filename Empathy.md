@@ -1,5 +1,13 @@
-## What role does empathy play in your life and how has it helped you?##
+## What role does empathy play in your life and how has it helped you? ##
+  I would say empathy plays a large role in my life, as I have always been able to see the struggle in someone else and the want to help. Empathy has helped me create relationships that are strong and lasting. I believe people trust me more when I am empathetic to them and their needs. I believe it has helped me bridge gaps in new relationships because people feel heard and listened to. Empathy is more than just recognizing a feeling in someone else, but also considering their emotion in how you respond to them. 
+
 ## How does empathy help you build better software? ##
+  When we build software, chances are we are building for someone else, or many someone elses. With this is mid it's important to consider not only how you envidion he software to be used, but how others would use. You, who may have no problem with speed typing, need to account for someone who hasn't used a keyboard before. You, who can read with no issues, need to consider someone who may be dyslexic. When we twke the time to be empathtic of our potential users, we create a better software model, that in the end, is more encompassing and inclusive. I believe, as far as development goes, that when a designer is all inclusive the software has the potential to take on a role the designer could not have imagined originally. 
+  
 ## Why is empathy important for working on a team? ##
+  Being mindful of your temmates i the first step to success. If you are in a situation where you *must* work with others, then you *must* consider them as part of the working problem. (When I say problem here, I only mean the design or application problem the group is trying to solve.) If you re not empathetic of your teammates you will end up frustrated, with a hurried solution. 
+
 ## Describe a situation in which your ability to empathize with a colleague or teammate was helpful. ##
+  In archtecture school, during the landscape part of our training, we were set with the task of redesigning a park in Boulder. The challenge was the park had a large hill in the center that could not be dug into for support, or moved. At first our group wanted to design large archways, and swooping trails that led to bog staircases and a patio seating at the top. *Over the top.* One of our classmates though was injured from a ski accident, and by taking his physical limitations into consideration, being empathtic with his situation, we shifted gears to design an accssible park with long ramps, smooth and flat surfaces, and larger group seating at the bottom. Though his usage of this design was hypothetical in nature, in the end we created something that was far more unique ### and ### useful. 
+
 ## When do you find it most difficult to be empathetic in professional settings? How can you improve your skills when faced with these scenarios? ##
